@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App Name</string>
+    <!--Replace with your own ad unit id. -->
+    <string name="ad_unit_id">your_unit_id</string>
+    <string name="banner_ad_unit_id">your_banner_id</string>
+    <string name="interstitial_ad_unit_id">your_interstitial_id</string>
+</resources>
